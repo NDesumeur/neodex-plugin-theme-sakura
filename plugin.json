@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themesakura",
+  "name": "Thème Sakura",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Pastel doux, rose et vert tendre, coins ronds, sans balayage. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "sakura",
+      "name": "Sakura",
+      "style": "sakura",
+      "hue": 330,
+      "sat": 34,
+      "accent": "#ff9ec7",
+      "light": "#ffd6e8",
+      "third": "#9be8b4",
+      "lift": 3,
+      "about": "Pastel doux, rose et vert tendre, coins ronds, sans balayage."
+    }
+  ]
+}
